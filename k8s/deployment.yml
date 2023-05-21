@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: app
-          image: triple3a/appnginx:latest
+          image: triple3a/temp-project:latest
           ports:
             - containerPort: 8080
